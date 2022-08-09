@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  display: inline-block;
+  border: 2px solid red;
+  border-radius: 10px;
+  background-color: #070807;
+  width: 40%;
+  height: 15rem;
+    margin-left: 30%;
+    font-size: 1rem;
+}
+#to-do-list{
+  color: blue;
+}
+.list{
+  list-style: none;
+}
+.Add{
+  height:20px;
+  width: 50px;
+  border: 2px solid green;
+}
